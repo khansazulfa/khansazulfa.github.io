@@ -192,6 +192,9 @@ header .btn-get-started:hover {
   margin-top: 150px;
 }
 
+.section-popular {
+  margin-top: -100px;
+}
 .section-popular h2,
 .section-popular p {
   color: #6b526b;
